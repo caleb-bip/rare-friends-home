@@ -1,0 +1,12 @@
+{
+  "name": "HOME",
+  "consumable": "Night",
+  "price": "1000000000000000000",
+  "outcomes": [
+    { "name": "Dark stoop", "chanceBps": 4500, "reward": "0" },
+    { "name": "Loose coin", "chanceBps": 2800, "reward": "200000000000000000" },
+    { "name": "Lit window", "chanceBps": 1800, "reward": "600000000000000000" },
+    { "name": "House key", "chanceBps": 750, "reward": "1200000000000000000" },
+    { "name": "Night edition", "chanceBps": 150, "reward": "3000000000000000000" }
+  ]
+}
